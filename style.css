@@ -1,0 +1,32 @@
+body {
+    background-color: #EEEEEE;
+    text-align: center;
+    /* color: #003638; */
+}
+
+.TS {
+    background-color: #77ddfc;
+    margin: 3% 25%;
+    padding: 2%;
+    border: 3px solid rgb(14, 17, 17);
+}
+
+form {
+    padding: 5% 0;
+}
+
+.a {
+    border-radius: 3px;
+    margin-bottom: 1.5%;
+    width: 80%;
+}
+
+.CB {
+    padding: 3% 10% 1%;
+    text-align: left;
+}
+
+button {
+    width: 50%;
+    margin: 4% 0 0;
+}
